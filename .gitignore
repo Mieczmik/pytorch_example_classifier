@@ -10,7 +10,6 @@ Vegetable Classifier
 *.so
 
 # Images extensions
-*.jpg
 
 # Distribution / packaging
 .Python
