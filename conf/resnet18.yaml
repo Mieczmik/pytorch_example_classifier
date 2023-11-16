@@ -30,4 +30,4 @@ saveEvery: 3600
 # not want this, but it may be useful for finding bugs in your setup
 logLevel: 'info'
 # to continue a training, set the path to the pth file here:
-checkpoint: 'checkpoints\checkpoint.pth'
+checkpoint: '/path/to/checkpoint/the_name_of_the_checkpoint.pth'

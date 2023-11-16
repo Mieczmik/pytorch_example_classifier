@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 mlruns
-Vegetable Images
 Vegetable Classifier
+.venv
 
 # C extensions
 *.so
